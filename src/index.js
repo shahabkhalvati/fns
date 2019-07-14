@@ -1,3 +1,7 @@
-export default () => {
-  return `hello world`
+import dev from './dev'
+import common from './common'
+
+export default {
+  dev,
+  common
 }
