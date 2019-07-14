@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "common utilities, for every project",
   "main": "dist/bundle.js",
-  "repository": "git@github.com:shahabkhalvati/js-toolbox.git",
+  "repository": "git@github.com:shahabkhalvati/handyones.git",
   "author": "Shahab Khalvati <contact@shahabkhalvati.com>",
   "license": "MIT",
   "keywords": [
