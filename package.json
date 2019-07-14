@@ -1,8 +1,8 @@
 {
-  "name": "js-toolbox",
+  "name": "handyones",
   "version": "0.0.0",
   "description": "common utilities, for every project",
-  "main": "dist/budle.js",
+  "main": "dist/bundle.js",
   "repository": "git@github.com:shahabkhalvati/js-toolbox.git",
   "author": "Shahab Khalvati <contact@shahabkhalvati.com>",
   "license": "MIT",
