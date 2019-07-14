@@ -1,9 +1,9 @@
 {
-  "name": "handyones",
+  "name": "fns",
   "version": "0.0.0",
-  "description": "common utilities, for every project",
+  "description": "common sort of functions, for every project",
   "main": "dist/bundle.js",
-  "repository": "git@github.com:shahabkhalvati/handyones.git",
+  "repository": "git@github.com:shahabkhalvati/fns.git",
   "author": "Shahab Khalvati <contact@shahabkhalvati.com>",
   "license": "MIT",
   "keywords": [
