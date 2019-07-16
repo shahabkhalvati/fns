@@ -18,7 +18,7 @@
     "dev": "watch 'npm run build' src",
     "test": "jest",
     "test:watch": "yarn test --watch",
-    "prepublish": "yarn run build",
+    "prepublishOnly": "yarn run build",
     "release": "np"
   },
   "standard": {
