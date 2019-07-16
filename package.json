@@ -18,6 +18,7 @@
     "dev": "watch 'npm run build' src",
     "test": "jest",
     "test:watch": "yarn test --watch",
+    "coverage": "yarn run test --coverage",
     "prepublishOnly": "yarn run build",
     "release": "np"
   },
@@ -30,6 +31,7 @@
     "@babel/core": "^7.5.4",
     "@babel/preset-env": "^7.5.4",
     "babel-jest": "^24.8.0",
+    "coveralls": "^3.0.5",
     "jest": "^24.8.0",
     "np": "^5.0.3",
     "rollup": "^1.16.7",
