@@ -13,9 +13,10 @@ const random = Math.random
 const randomInRange = R.curry(
   (fractionDigits, min, max) => {
     const fractionMultiplier = Math.pow(10, fractionDigits)
-    return Math.round(
+    const result = Math.round(
       (Math.random() * (max - min) + min) * fractionMultiplier
     ) / fractionMultiplier
+    return fractionDigits === 0 ? Math.floor(result) : result
   })
 
 const randomIntInRange = randomInRange(0)
