@@ -1,11 +1,11 @@
 {
-  "name": "fns",
+  "name": "regular-fns",
   "version": "0.0.0",
   "description": "common sort of functions, for every project",
   "main": "dist/bundle.cjs.js",
   "module": "dist/bundle.esm.js",
   "browser": "dist/bundle.umd.js",
-  "repository": "git@github.com:shahabkhalvati/fns.git",
+  "repository": "git@github.com:shahabkhalvati/regular-fns.git",
   "author": "Shahab Khalvati <contact@shahabkhalvati.com>",
   "license": "MIT",
   "keywords": [
